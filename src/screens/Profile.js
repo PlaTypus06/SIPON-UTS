@@ -16,7 +16,7 @@ const Profile = () => {
         <Text style={styles.profileText}>PlaTypus</Text>
         <Text style={styles.profileText2}>@PlaTypus_67</Text>
       </View>
-
+ 
       {/* container */}
       <View style={styles.containerBody}>
         <View style={styles.favGame}>
