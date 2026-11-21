@@ -58,6 +58,11 @@ export default function GoOnline() {
             <Text style={styles.category}>Moba</Text>
             <Text style={styles.category}>Racing</Text>
           </ScrollView>
+
+          {/* games card section */}
+          <View style={styles.gamesContainer}>
+            <View style={styles.gameCard}></View>
+          </View>
         </View>
       </View>
     </SafeAreaView>
